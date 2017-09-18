@@ -1,4 +1,4 @@
-LC
+Minimal
 ==
 
 A minimalist, content-focused Wordpress theme
@@ -6,13 +6,13 @@ A minimalist, content-focused Wordpress theme
 
 ==
 
-LC readme
+Minimal info
 
 Author: Luca Ciavatta
 
-Author URI: http://lucaciavatta.com
+Author URI: http://cialu.net
 
-Theme URI: https://github.com/lucaciavatta/LC
+Theme URI: https://github.com/websake/Minimal
 
 Description: A minimalist, content-focused theme
 
@@ -22,7 +22,7 @@ License: Uncopyrighted
 
 ==
 
-LC is a fork of zh2
+Minimal is a fork of zh2
 
 ——————————————————————————————————————
 
@@ -36,7 +36,7 @@ Theme URI: http://zenhabits.net/theme/
 
 ——————————————————————————————————————
 
-LC is an extremely minimalist theme that focuses on the content without distractions.
+Minimal is an extremely minimalist theme that focuses on the content without distractions.
 It has the content and almost nothing else. 
 
 This theme is uncopyrighted -- use as you like, spread it, sell it, do whatever you want. 
